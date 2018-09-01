@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f79db3c3-9ecc-408f-b87d-47d0b5eb363a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddRows" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoadData.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReadRow.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReadRow.js">
+      <file leaf-file-name="Insert.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Insert.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="306">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddRows" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AddRows">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadData.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoadData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -38,9 +51,24 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,9 +93,11 @@
         <option value="$PROJECT_DIR$/CreateTable.js" />
         <option value="$PROJECT_DIR$/node_modules/AddRows.js" />
         <option value="$PROJECT_DIR$/src/CreateTable.js" />
-        <option value="$PROJECT_DIR$/src/AddRows" />
         <option value="$PROJECT_DIR$/src/ReadRow.js" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/AddRows" />
+        <option value="$PROJECT_DIR$/src/Insert.js" />
+        <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -111,11 +141,6 @@
               <item name="dynamodb-Examples" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dynamodb-Examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamodb-Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,19 +170,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.ReadRow.js">
-    <configuration name="AddRows" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="AddRows" working-dir="$PROJECT_DIR$/src" />
+  <component name="RunManager" selected="Node.js.Insert.js">
     <configuration name="CreateTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/CreateTable.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="Insert.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Insert.js" working-dir="$PROJECT_DIR$/src" />
+    <configuration name="LoadData.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/LoadData.js" working-dir="$PROJECT_DIR$/src" />
     <configuration name="ReadRow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ReadRow.js" working-dir="$PROJECT_DIR$/src" />
     <list>
       <item itemvalue="Node.js.CreateTable.js" />
-      <item itemvalue="Node.js.AddRows" />
+      <item itemvalue="Node.js.LoadData.js" />
       <item itemvalue="Node.js.ReadRow.js" />
+      <item itemvalue="Node.js.Insert.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Insert.js" />
         <item itemvalue="Node.js.ReadRow.js" />
-        <item itemvalue="Node.js.AddRows" />
+        <item itemvalue="Node.js.LoadData.js" />
         <item itemvalue="Node.js.CreateTable.js" />
       </list>
     </recent_temporary>
@@ -172,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535786993491</updated>
-      <workItem from="1535786995194" duration="3206000" />
+      <workItem from="1535786995194" duration="5806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3206000" />
+    <option name="totallyTimeSpent" value="5806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -232,15 +260,33 @@
     <entry file="file://$PROJECT_DIR$/node_modules/AddRows.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/moviedata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1759002" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/moviedata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadRow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -251,10 +297,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadRow.js">
+    <entry file="file://$PROJECT_DIR$/src/Insert.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -265,17 +318,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddRows">
+    <entry file="file://$PROJECT_DIR$/src/LoadData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="38">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>

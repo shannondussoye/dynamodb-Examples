@@ -4,7 +4,7 @@
   "description": "Dynamodb Examples",
   "main": "index.js",
   "scripts": {
-    "test": "No test specified"
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
