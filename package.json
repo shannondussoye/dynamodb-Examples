@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shannondussoye/dynamodb-Examples#readme",
   "dependencies": {
-    "aws-sdk": "^2.307.0"
+    "aws-sdk": "^2.307.0",
+    "fs": "0.0.1-security"
   }
 }
